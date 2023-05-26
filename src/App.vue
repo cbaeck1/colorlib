@@ -3,13 +3,16 @@
     <Header />
     <router-view />
     <Footer />
+
   </div>
 </template>
 
 <script>
+import $ from 'jquery';
+
 import Header from '@/components/Header.vue';
 import Footer from '@/components/Footer.vue';
-import $ from 'jquery';
+
 
 export default ({
   mounted() {
@@ -19,9 +22,9 @@ export default ({
   components : {
     Header,
     Footer,
+
   }
   
 })
 </script>
-
 

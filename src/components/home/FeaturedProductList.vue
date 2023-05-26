@@ -20,8 +20,8 @@
 </template>
 <script>
   import $ from 'jquery';
-  import { mapState } from 'vuex';
 
+  import { mapState } from 'vuex';
   import Product from '@/components/Product.vue';
 
   export default {

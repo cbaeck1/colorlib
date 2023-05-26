@@ -1,7 +1,7 @@
 <template>
   <section class="banner bgwhite p-t-40 p-b-40">
     <div class="container">
-      <div class="sec-title p-b-60">
+      <div class="sec-title p-b-10">
         <h3 class="m-text5 t-center">
           Best Products
         </h3>

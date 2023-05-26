@@ -5,7 +5,7 @@
         Women
       </h2>
       <p class="m-text13 t-center">
-        New Arrivals Women Collection 2018
+        New Arrivals Women Collection 2022
       </p>
     </section>
 
